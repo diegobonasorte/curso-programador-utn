@@ -1,0 +1,32 @@
+h1{
+    text-transform: uppercase;/*mayuscula*/
+    text-align: center;/*alineación*/
+}
+
+h2{
+    text-transform: uppercase;
+    color: brown;
+    
+
+}
+
+p{
+    color: red;
+}
+
+.destacado{
+    color: green;
+    font-weight: bold;
+}
+#amarillo{
+    background-color: yellow;
+}
+#verde{
+    background-color: green;
+}
+img{
+    filter: grayscale(100);
+}
+img:hover{
+    filter:grayscale(0);  
+}
